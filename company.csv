@@ -1,0 +1,6 @@
+﻿,id,bill_Name,bill_company,bill_address,bill_phone,bill_email,ship_Dep,ship_company,ship_address,ship_phone,ship_email
+0,N001,Oda Taro,Niko co.,東京都新宿区西早稲田2-3-18,03-1234-5678,niko@niko.co.jp,Accounting,Niko co.,東京都新宿区西早稲田2-3-18,03-1234-5678,niko@niko.co.jp
+1,S001,Suzuki Jiro,Shibami co.,東京都新宿区早稲田3-1-1,03-5678-1234,info@shibami.co.jp,Accounting,Shibami co.,東京都新宿区早稲田3-1-1,03-5678-1234,info@shibami.co.jp
+2,E001,Egami Sabu ,Egami co.,大阪府大阪市此花区島屋123,06-1234-5678,egami@egami.co.jp,Accounting,Egami co.,大阪府大阪市此花区島屋123,06-1234-5678,egami@egami.co.jp
+3,M001,Wani Hana,Miracle co.,大阪府大阪市中央区大阪城123,06-5678-1234,miracle@miracle.co.jp,Accounting,Miracle co.,大阪府大阪市中央区大阪城123,06-5678-1234,info@miracle.co.jp
+4,S002,Yamato Emi,Sekai co.,京都府京都市上京区東町123,075-234-5678,segai@miracle.co.jp,Accounting,Sekai co.,京都府京都市上京区東町123,075-234-5678,info@sekai.co.jp
