@@ -29,6 +29,8 @@ ws['D13'] = '<Phone, Email>'
 ws['E2'] = 'INVOICE'
 
 invoice_no = '#INV00001'
+invoice_day = '2020/12/01'
+due_day = '2021/01/31'
 
 ws['E9'] = 'Invoice No:'
 ws['F9'] = invoice_no
